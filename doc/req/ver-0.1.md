@@ -129,7 +129,7 @@ The editor should allow:
 - playback of the current segment
 - playback of the previous, current and next segment as one group
 
-## *REQ-0.1-D05* Playback of the sound recording
+### *REQ-0.1-D05* Playback of the sound recording
 
 It should be possible to play the sound file together with annotations being displayed.
 
@@ -146,13 +146,13 @@ Playback options:
 
 ## Exporting and importing data
 
-## *REQ-0.1-E01* Exporting projects to dropbox
+### *REQ-0.1-E01* Exporting projects to dropbox
 
 It should be possible to export projects to dropbox.
 Sound files should be exported in wave format, all other data as JSON.
 If export were to overwrite any existing files in the dropbox, user has to confirm the overwrite or choose 
 new directory.
 
-## *REQ-0.1-E02* Importing projects from dropbox
+### *REQ-0.1-E02* Importing projects from dropbox
 
 It should be possible to import projects from dropbox back into the application.
